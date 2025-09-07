@@ -36,8 +36,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Support
-This project is part of Typexedra. Supported and maintained by TwinType. For bug reports or feature requests, please submit an issue. For other questions, contact-- hello@twintype.co
+This project is part of Typexedra. Supported and maintained by TwinType. For bug reports or feature requests, please submit an issue. For other questions, contact-hello@twintype.co
 Have Fun!
+
 ---
 
 # Font Comparison Tool 字體測試器
