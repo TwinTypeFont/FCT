@@ -1,0 +1,22 @@
+# Ignore image exports
+*.jpg
+*.png
+
+# Ignore node_modules and build output
+node_modules/
+dist/
+build/
+
+# Ignore OS/IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Ignore sensitive files
+.env
+*.bak
+*.tmp
+
+# Ignore Omain.js
+Omain.js
+Oindex.html
