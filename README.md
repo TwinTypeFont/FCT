@@ -1,5 +1,7 @@
 
+
 # Font Comparison Tool
+Website: https://fct.twintype.co/
 
 Font Comparison Tool is a simple font comparison and testing tool. It supports Chinese and English text, font upload, font size/line height/letter spacing adjustment, palette switching, blur/grayscale effects, block export, and more. Suitable for designers and developers to quickly compare the visual effects of different fonts.
 
@@ -42,7 +44,7 @@ Have Fun!
 ---
 
 # Font Comparison Tool 字體測試器
-
+網站： https://fct.twintype.co/
 Font Comparison Tool 是一個簡易的字體對比與測試工具，支援中英文文本、字型上傳、字級/行高/字距調整、配色切換、模糊/灰階效果、區塊匯出等功能。適合設計師、開發者快速比較不同字型的視覺效果。
 
 ## 功能特色
