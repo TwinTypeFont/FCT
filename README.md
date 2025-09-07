@@ -1,7 +1,8 @@
 
+
 # Font Comparison Tool
 
-Font Comparison Tool is a simple font comparison and testing tool. It supports Chinese and English text, font upload, font size/line height/letter spacing adjustment, palette switching, blur/grayscale effects, block export, and more. Suitable for designers and developers to quickly compare the visual effects of different fonts.
+Font Comparison Tool is a simple font comparison and testing tool, part of the Typexedra project. It supports Chinese and English text, font upload, font size/line height/letter spacing adjustment, palette switching, blur/grayscale effects, block export, and more. Suitable for designers and developers to quickly compare the visual effects of different fonts.
 
 ## Features
 - Supports Chinese and English test text
@@ -35,15 +36,17 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+
 ## Support
-This project is part of Typexedra. Supported and maintained by TwinType. For bug reports or feature requests, please submit an issue. For other questions, contact-hello@twintype.co
+This project is part of the Typexedra initiative, supported and maintained by TwinType. For bug reports or feature requests, please submit an issue. For other questions, contact: hello@twintype.co
 Have Fun!
 
 ---
 
+
 # Font Comparison Tool 字體測試器
 
-Font Comparison Tool 是一個簡易的字體對比與測試工具，支援中英文文本、字型上傳、字級/行高/字距調整、配色切換、模糊/灰階效果、區塊匯出等功能。適合設計師、開發者快速比較不同字型的視覺效果。
+Font Comparison Tool 是 Typexedra 計畫的一部分，提供簡易字型對比與測試功能，支援中英文文本、字型上傳、參數調整、配色切換、模糊/灰階效果及區塊匯出，方便設計師與開發者快速比較字型。
 
 ## 功能特色
 - 支援中英文測試文本
@@ -57,5 +60,6 @@ Font Comparison Tool 是一個簡易的字體對比與測試工具，支援中�
 ## 授權 License
 MIT License
 
+
 ## 支援
-本項目為 Typexedra 計畫之一，由 TwinType 支持與維護。錯誤或功能請求請提交 issue，其他疑問請聯繫：hello@twintype.co
+本項目隸屬 Typexedra 計畫，由 TwinType 支持維護。錯誤或功能請求請提交 issue，其他疑問請聯繫：hello@twintype.co
